@@ -10,3 +10,5 @@ THIS IS A NEW BRANCH `flavour`.
 THIS IS ANOTHER CHANGE ON THE `flavour` BRANCH.
 
 This line has been added using Amazon Workspaces.
+
+This line has beed added on my-new-branch branch.
